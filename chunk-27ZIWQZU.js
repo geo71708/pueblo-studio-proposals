@@ -1,0 +1,1 @@
+import{Yb as o}from"./chunk-THYHNSB3.js";function t(r){return r&&typeof r=="object"&&"message"in r&&typeof r.message=="string"?r.message:String(r)}async function s(r){if(r instanceof o){let n=await r.context.json().catch(()=>null);if(n&&typeof n.error=="string")return new Error(n.error)}return new Error(t(r))}export{t as a,s as b};

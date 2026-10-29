@@ -1,0 +1,123 @@
+{
+  "configVersion": 1,
+  "timestamp": 1793302355818,
+  "index": "/pueblo-studio-proposals/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/pueblo-studio-proposals/chunk-27ZIWQZU.js",
+        "/pueblo-studio-proposals/chunk-2Z244MUR.js",
+        "/pueblo-studio-proposals/chunk-7A4RPSS3.js",
+        "/pueblo-studio-proposals/chunk-7M7Z77JP.js",
+        "/pueblo-studio-proposals/chunk-DJ3DQQWZ.js",
+        "/pueblo-studio-proposals/chunk-EB5QFKAX.js",
+        "/pueblo-studio-proposals/chunk-EF6LRZ3A.js",
+        "/pueblo-studio-proposals/chunk-GK7CIAK5.js",
+        "/pueblo-studio-proposals/chunk-H2TCF47K.js",
+        "/pueblo-studio-proposals/chunk-HGNCOPQX.js",
+        "/pueblo-studio-proposals/chunk-HYHVXGPW.js",
+        "/pueblo-studio-proposals/chunk-JCVDTYP2.js",
+        "/pueblo-studio-proposals/chunk-K5UA66LT.js",
+        "/pueblo-studio-proposals/chunk-NEDD7GPC.js",
+        "/pueblo-studio-proposals/chunk-NSZDC73O.js",
+        "/pueblo-studio-proposals/chunk-QHTIFRXC.js",
+        "/pueblo-studio-proposals/chunk-THYHNSB3.js",
+        "/pueblo-studio-proposals/chunk-TP4TYOCJ.js",
+        "/pueblo-studio-proposals/chunk-UAATDQBC.js",
+        "/pueblo-studio-proposals/chunk-VOHC6RTG.js",
+        "/pueblo-studio-proposals/chunk-VZ6J3OJL.js",
+        "/pueblo-studio-proposals/chunk-WA76PONR.js",
+        "/pueblo-studio-proposals/chunk-WAL62JXG.js",
+        "/pueblo-studio-proposals/favicon.ico",
+        "/pueblo-studio-proposals/index.html",
+        "/pueblo-studio-proposals/main-HMGBNQNN.js",
+        "/pueblo-studio-proposals/manifest.webmanifest",
+        "/pueblo-studio-proposals/styles-ETLPF6KL.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/pueblo-studio-proposals/icons/icon-128x128.png",
+        "/pueblo-studio-proposals/icons/icon-144x144.png",
+        "/pueblo-studio-proposals/icons/icon-152x152.png",
+        "/pueblo-studio-proposals/icons/icon-192x192.png",
+        "/pueblo-studio-proposals/icons/icon-384x384.png",
+        "/pueblo-studio-proposals/icons/icon-512x512.png",
+        "/pueblo-studio-proposals/icons/icon-72x72.png",
+        "/pueblo-studio-proposals/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/pueblo-studio-proposals/chunk-27ZIWQZU.js": "3d765c834fab8b42c4111d0977f6c96e44207045",
+    "/pueblo-studio-proposals/chunk-2Z244MUR.js": "d0ed14f782ea0bf4a93221aee779487219ac929c",
+    "/pueblo-studio-proposals/chunk-7A4RPSS3.js": "778c7c3ca3a2886081f53b93ade447ae65e376db",
+    "/pueblo-studio-proposals/chunk-7M7Z77JP.js": "4dad40104db6b5b08e1671132b4810c52bd56970",
+    "/pueblo-studio-proposals/chunk-DJ3DQQWZ.js": "c04ccf53cfb3db322e2c75fc2e23b307f30b2c12",
+    "/pueblo-studio-proposals/chunk-EB5QFKAX.js": "5db96a03d70f97006e2179686936c9e91ff1f82c",
+    "/pueblo-studio-proposals/chunk-EF6LRZ3A.js": "06f0460463f4d6367b8b4c56f64062acf4410a06",
+    "/pueblo-studio-proposals/chunk-GK7CIAK5.js": "bac9c04b82a04c501be5eb8957c6acc36ba20c67",
+    "/pueblo-studio-proposals/chunk-H2TCF47K.js": "dc45c4b1e663e5e1bc203733c6ea7ea4079e61b9",
+    "/pueblo-studio-proposals/chunk-HGNCOPQX.js": "d30830b8ec6681cbb00a136a5a9f37ca8c433754",
+    "/pueblo-studio-proposals/chunk-HYHVXGPW.js": "797560dad4c40b2d87c6f9139962ac8936fafddf",
+    "/pueblo-studio-proposals/chunk-JCVDTYP2.js": "5f8f7399709347515c53da58703608b7f03e8bdd",
+    "/pueblo-studio-proposals/chunk-K5UA66LT.js": "b51e56232564b9599c622e63663da48077f35b64",
+    "/pueblo-studio-proposals/chunk-NEDD7GPC.js": "457a429c48029026877dcf5e273bf2f0c753971a",
+    "/pueblo-studio-proposals/chunk-NSZDC73O.js": "adfaa55661b68a42554b42c074a2e1c551eeaed9",
+    "/pueblo-studio-proposals/chunk-QHTIFRXC.js": "c02b6467fe01b0eb45238b12c14d2130899a8de5",
+    "/pueblo-studio-proposals/chunk-THYHNSB3.js": "9be544c48d198f421ae52df8130a10e676bac07c",
+    "/pueblo-studio-proposals/chunk-TP4TYOCJ.js": "1d43df05e5b639675889ed7ee740adff34fad1a5",
+    "/pueblo-studio-proposals/chunk-UAATDQBC.js": "e014729d66d90ad71ebf17fa2256189a2a8292f0",
+    "/pueblo-studio-proposals/chunk-VOHC6RTG.js": "b0cb3da3fdb4292d3c1a58efd3faaac761b7d35d",
+    "/pueblo-studio-proposals/chunk-VZ6J3OJL.js": "522e4afa9ad74b3dc6bdfa1f53153b36f5f13c31",
+    "/pueblo-studio-proposals/chunk-WA76PONR.js": "173fbd5507a6baa73449cfbae723431c71589cc7",
+    "/pueblo-studio-proposals/chunk-WAL62JXG.js": "a3eceb48e013787c8d5c89ee037d9929f9c19711",
+    "/pueblo-studio-proposals/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/pueblo-studio-proposals/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/pueblo-studio-proposals/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/pueblo-studio-proposals/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/pueblo-studio-proposals/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/pueblo-studio-proposals/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/pueblo-studio-proposals/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/pueblo-studio-proposals/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/pueblo-studio-proposals/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/pueblo-studio-proposals/index.html": "b90188bf3f489743289f1c1d4680cfc14bc49f8a",
+    "/pueblo-studio-proposals/main-HMGBNQNN.js": "753fada904dd82e17fedccb7930547eeb5745495",
+    "/pueblo-studio-proposals/manifest.webmanifest": "46125a54300251cb17d63485cf91a7680b9c9eea",
+    "/pueblo-studio-proposals/styles-ETLPF6KL.css": "4bf3e7e3f6fcd7b3356359964c98973f52c47f4b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
